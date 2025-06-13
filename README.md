@@ -1,1 +1,1 @@
-# next-gen-2
+✅A smart, interactive to-do list built with HTML, CSS, and JavaScript. Features dynamic DOM manipulation, form validation, and productivity quotes via public API. Created for Week 2 of the Next Gen Software Hub Frontend Internship.
